@@ -1,5 +1,4 @@
 ## Olá, Sou Gustavo Gonzaga!
-<img align='right' src="https://media.giphy.com/media/hWFSXzD6GgnSIxBTtn/giphy.gif" width="230">
 <div align="center">
   <a href="https://github.com/Gustavo13132">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13132&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
