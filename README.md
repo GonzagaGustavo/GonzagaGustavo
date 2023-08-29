@@ -1,4 +1,4 @@
-## Olá, Sou Gustavo Gonzaga!
+## Hello, I'm Gustavo Gonzaga!
 
 ### Latest project
 https://github.com/GonzagaGustavo/social-network
