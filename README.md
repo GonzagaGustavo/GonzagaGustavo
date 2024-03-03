@@ -1,5 +1,3 @@
 ## Hello, I'm Gustavo Gonzaga!
 
-### Latest projects
-<a href="https://github.com/GonzagaGustavo/social-network">social-network</a> - 
-<a href="https://github.com/GonzagaGustavo/social-network-services">social-network-services</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzagaGustavo&layout=pie)
